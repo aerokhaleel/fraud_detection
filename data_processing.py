@@ -21,5 +21,5 @@ print ("Multiplication function")
 
 def division(a,b):
     e = a/b
-    return f
+    return e
 print ("division function")
