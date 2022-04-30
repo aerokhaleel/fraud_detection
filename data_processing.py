@@ -18,3 +18,8 @@ def multiplication(a,b):
     d = a*b
     return d
 print ("Multiplication function")
+
+def division(a,b):
+    e = a/b
+    return f
+print ("division function")
